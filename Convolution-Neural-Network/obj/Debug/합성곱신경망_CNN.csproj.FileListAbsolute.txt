@@ -1,0 +1,46 @@
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\mnist_test.csv
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\mnist_train.csv
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\합성곱신경망_CNN.exe.config
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\합성곱신경망_CNN.exe
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\합성곱신경망_CNN.pdb
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.csproj.CoreCompileInputs.cache
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.exe
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.pdb
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.csprojResolveAssemblyReference.cache
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.ImageForm.resources
+D:\LeeGeon\Programming\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.csproj.GenerateResource.Cache
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\mnist_test.csv
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\mnist_train.csv
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\합성곱신경망_CNN.exe.config
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\합성곱신경망_CNN.exe
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\합성곱신경망_CNN.pdb
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.csprojAssemblyReference.cache
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.ImageForm.resources
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.csproj.GenerateResource.cache
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.csproj.CoreCompileInputs.cache
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.exe
+C:\Users\w6167\OneDrive\바탕 화면\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.pdb
+D:\Project\C#\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\mnist_test.csv
+D:\Project\C#\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\합성곱신경망_CNN.exe.config
+D:\Project\C#\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\합성곱신경망_CNN.exe
+D:\Project\C#\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\bin\Debug\합성곱신경망_CNN.pdb
+D:\Project\C#\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.csprojAssemblyReference.cache
+D:\Project\C#\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.csproj.CoreCompileInputs.cache
+D:\Project\C#\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.exe
+D:\Project\C#\딥러닝\Convolutional_Neural_Network\합성곱신경망_CNN\obj\Debug\합성곱신경망_CNN.pdb
+D:\Project\새 폴더\CS_Convolution-Neural-Network\bin\Debug\mnist_test.csv
+D:\Project\새 폴더\CS_Convolution-Neural-Network\bin\Debug\합성곱신경망_CNN.exe.config
+D:\Project\새 폴더\CS_Convolution-Neural-Network\bin\Debug\합성곱신경망_CNN.exe
+D:\Project\새 폴더\CS_Convolution-Neural-Network\bin\Debug\합성곱신경망_CNN.pdb
+D:\Project\새 폴더\CS_Convolution-Neural-Network\obj\Debug\합성곱신경망_CNN.csprojAssemblyReference.cache
+D:\Project\새 폴더\CS_Convolution-Neural-Network\obj\Debug\합성곱신경망_CNN.csproj.CoreCompileInputs.cache
+D:\Project\새 폴더\CS_Convolution-Neural-Network\obj\Debug\합성곱신경망_CNN.exe
+D:\Project\새 폴더\CS_Convolution-Neural-Network\obj\Debug\합성곱신경망_CNN.pdb
+D:\Project\새 폴더\CS_Deeplearning_without_library\Convolution-Neural-Network\bin\Debug\mnist_test.csv
+D:\Project\새 폴더\CS_Deeplearning_without_library\Convolution-Neural-Network\bin\Debug\합성곱신경망_CNN.exe.config
+D:\Project\새 폴더\CS_Deeplearning_without_library\Convolution-Neural-Network\bin\Debug\합성곱신경망_CNN.exe
+D:\Project\새 폴더\CS_Deeplearning_without_library\Convolution-Neural-Network\bin\Debug\합성곱신경망_CNN.pdb
+D:\Project\새 폴더\CS_Deeplearning_without_library\Convolution-Neural-Network\obj\Debug\합성곱신경망_CNN.csprojAssemblyReference.cache
+D:\Project\새 폴더\CS_Deeplearning_without_library\Convolution-Neural-Network\obj\Debug\합성곱신경망_CNN.csproj.CoreCompileInputs.cache
+D:\Project\새 폴더\CS_Deeplearning_without_library\Convolution-Neural-Network\obj\Debug\합성곱신경망_CNN.exe
+D:\Project\새 폴더\CS_Deeplearning_without_library\Convolution-Neural-Network\obj\Debug\합성곱신경망_CNN.pdb
